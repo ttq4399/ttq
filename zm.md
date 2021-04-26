@@ -6,7 +6,7 @@
 
 <https://www.bilibili.com/>
 
-<https://github.com/ttq4399/ttq/blob/main/README>
+<https://github.com/ttq4399/ttq/edit/main/README>
 
 ![first](C:\Users\jlu\Desktop\柴犬1.jpg)
 
